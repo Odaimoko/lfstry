@@ -1,1 +1,2 @@
 shapetest.exe filter=lfs diff=lfs merge=lfs -text
+ss.exe filter=lfs diff=lfs merge=lfs -text
