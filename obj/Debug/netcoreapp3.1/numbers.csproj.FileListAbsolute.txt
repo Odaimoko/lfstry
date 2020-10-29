@@ -1,0 +1,12 @@
+/Users/oda/obj/bin/Debug/netcoreapp3.1/numbers.deps.json
+/Users/oda/obj/bin/Debug/netcoreapp3.1/numbers.runtimeconfig.json
+/Users/oda/obj/bin/Debug/netcoreapp3.1/numbers.runtimeconfig.dev.json
+/Users/oda/obj/bin/Debug/netcoreapp3.1/numbers.dll
+/Users/oda/obj/bin/Debug/netcoreapp3.1/numbers.pdb
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.csprojAssemblyReference.cache
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.AssemblyInfoInputs.cache
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.AssemblyInfo.cs
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.csproj.CoreCompileInputs.cache
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.dll
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.pdb
+/Users/oda/obj/obj/Debug/netcoreapp3.1/numbers.genruntimeconfig.cache
