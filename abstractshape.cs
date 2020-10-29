@@ -8,7 +8,7 @@ public abstract class Shape
         // calling the set accessor of the Id property.
         Id = s;
     }
-
+   
     public string Id
     {
         get
